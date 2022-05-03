@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @ChrisNiekler
-- 👀 I’m interested in Computer Science and Data Science
-
-- 📫 How to reach me https://www.linkedin.com/in/christian-niekler
-
-<!---
-ChrisNiekler/ChrisNiekler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hello there. I am Chris!
+I studied Computer Science in my Undergrad at [FHWS](https://www.fhws.de/en/) . Today I study at the masters program [Artificial Intelligence](https://mai.fhws.de/en/) at the same university.  You can reach me at [LinkedIn](https://www.linkedin.com/in/christian-niekler/) or write me an [Email](mailto:christian.niekler@student.fhws.de).
+I am interested in Automatic Speech Recognition and Computer Vision.
